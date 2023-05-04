@@ -1,2 +1,2 @@
-# preyecto
+# proyecto
 tarea del profesor....
